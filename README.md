@@ -1,2 +1,3 @@
-# unity-junior-programmer-car-project-2
+# Unity Junior Programmer Car Project
+Projects I've created while exploring Unity in the [Unity Learn: Junior Programmer Pathway](https://learn.unity.com/pathway/junior-programmer). All a part of my journey to self-learning game development! 👾
  
