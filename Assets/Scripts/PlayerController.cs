@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     // speed vars
     private float speed = 25.0f;
     private float turnSpeed = 45.0f;
-    // axis var
+    // axis vars
     private float horizontalInput;
     private float forwardInput;
 
